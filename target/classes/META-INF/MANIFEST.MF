@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: article-management-system
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pdananna
+Implementation-Vendor-Id: com.org
+Build-Jdk: 1.8.0_65
+Implementation-URL: http://projects.spring.io/spring-boot/article-mana
+ gement-system/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
